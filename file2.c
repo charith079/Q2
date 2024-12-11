@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 void main(){
-  printf("Hello from Branch1 folder c file");
+  printf("Hello from Branch2 folder c file");
 }
